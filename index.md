@@ -18,3 +18,9 @@ var myVar = "Hello, world!";
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
+
+| Your issue | Description | Number |
+| --- | ----------- | ------------- |
+| Issue one | bug on main branch | 1 |
+| Issue two | production branch urgent | 2 |
+| Issue three | error resolved ready to pr | 3 |
