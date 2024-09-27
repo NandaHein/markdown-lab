@@ -23,3 +23,4 @@ var myVar = "Hello, world!";
 | --- | ----------- | ------------- |
 | Issue one | bug on main branch | 1 |
 | Issue two | production branch urgent | 2 |
+| Issue three | error resolved ready to pr | 3 |
